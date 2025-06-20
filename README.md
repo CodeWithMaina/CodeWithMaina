@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Contribution Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeWithMaina&theme=dark&hide_border=true)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithMaina&show_icons=true&theme=dark&hide_border=true)
 
 <!-- GitHub Summary Stats -->
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithMaina&show_icons=true&theme=dark&hide_border=true)
