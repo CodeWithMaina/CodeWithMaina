@@ -52,11 +52,17 @@
 
 🚀 Key Features
 >✅ 14+ Database Tables with Proper Relations (1:1, 1:M, M:N)
+
 >✅ Full CRUD Operations for Menu, Orders, Staff, Customers, Payments, etc.
+
 >✅ Role-Based Access (RBA) – Admins, Managers, Staff, Customers
+
 >✅ JWT Authentication (Secure Login, Refresh Tokens)
+
 >✅ Optimized Queries with Drizzle ORM for Type-Safe SQL
+
 >✅ RESTful API Design with Clean Documentation (Postman/Swagger)
+
 >✅ Connected to Frontend (Live Demo Available)
 
 🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-API)
