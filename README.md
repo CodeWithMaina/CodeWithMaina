@@ -39,20 +39,47 @@
 ---
 
 ## 🚀 Recent Projects
-
-### 📚 Bookstore UI
-> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API.  
-> Features include user authentication, dynamic book listings, and form-driven interfaces.
-
-🔗 [View on GitHub](https://github.com/CodeWithMaina/bookstore-ui)
-
 ---
 
 ### 🍽️ Restaurant Frontend
 > A full-featured food ordering interface using React and Tailwind CSS.  
 > Supports authentication, dynamic menu browsing, and admin dashboard with charts.
 
-🔗 [View on GitHub](https://github.com/CodeWithMaina/restaurant-frontend)
+🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-Fontend)
+
+### 🍽️ Restaurant Management API
+> A Full-Featured Backend System for Modern Restaurants
+
+🔧 Tech Stack
+Backend: TypeScript, Node.js, Express
+
+Database: PostgreSQL + Drizzle ORM (Type-Safe Query Builder)
+
+Auth: JWT-based Authentication & Role-Based Access Control (RBAC)
+
+Security: Protected Routes, Input Validation, Rate Limiting
+
+Frontend: Connected to a React/Vue/Angular Frontend (Hosted Separately)
+
+Deployment: Hosted on Render/Vercel/AWS (Include your hosting service)
+
+🚀 Key Features
+✅ 14+ Database Tables with Proper Relations (1:1, 1:M, M:N)
+✅ Full CRUD Operations for Menu, Orders, Staff, Customers, Payments, etc.
+✅ Role-Based Access (RBA) – Admins, Managers, Staff, Customers
+✅ JWT Authentication (Secure Login, Refresh Tokens)
+✅ Optimized Queries with Drizzle ORM for Type-Safe SQL
+✅ RESTful API Design with Clean Documentation (Postman/Swagger)
+✅ Connected to Frontend (Live Demo Available)
+
+🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-API)
+
+### 📚 Bookstore UI
+> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API.  
+> Features include CRUD functionality, dynamic book listings, and form-driven interfaces.
+
+🔗 [View on GitHub](https://github.com/CodeWithMaina/Book-Store-UI)
+
 
 ---
 
