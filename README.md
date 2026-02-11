@@ -37,7 +37,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%2523-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%2520SQL%2520Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/-Microsoft%2520SQL%2520Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ---
 
