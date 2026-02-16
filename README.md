@@ -35,7 +35,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C#](https://img.shields.io/badge/-C#-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -54,28 +54,15 @@
 > A Full-Featured Backend System for Modern Restaurants
 
 🚀 Key Features
->✅ 14+ Database Tables with Proper Relations (1:1, 1:M, M:N)
-
->✅ Full CRUD Operations for Menu, Orders, Staff, Customers, Payments, etc.
-
->✅ Role-Based Access (RBA) – Admins, Managers, Staff, Customers
-
->✅ JWT Authentication (Secure Login, Refresh Tokens)
-
->✅ Optimized Queries with Drizzle ORM for Type-Safe SQL
-
->✅ RESTful API Design with Clean Documentation (Postman/Swagger)
-
->✅ Connected to Frontend (Live Demo Available)
+>14+ Database Tables with Proper Relations (1:1, 1:M, M:N)
+>Full CRUD Operations for Menu, Orders, Staff, Customers, Payments, etc.
+>Role-Based Access (RBA) – Admins, Managers, Staff, Customers
+>JWT Authentication (Secure Login, Refresh Tokens)
+>Optimized Queries with Drizzle ORM for Type-Safe SQL
+>RESTful API Design with Clean Documentation (Postman/Swagger)
+>Connected to Frontend (Live Demo Available)
 
 🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-API)
-
-### 📚 Bookstore UI
-> A clean and modern frontend built with React and TypeScript, connected to a modular Book Repository API.  
-> Features include CRUD functionality, dynamic book listings, and form-driven interfaces.
-
-🔗 [View on GitHub](https://github.com/CodeWithMaina/Book-Store-UI)
-
 
 ---
 
