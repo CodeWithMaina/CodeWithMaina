@@ -1,85 +1,233 @@
-# Hi There, 👋 I'm Peter Maina Chege
+<div align="center">
 
-🚀 Passionate about building modern, scalable web applications with clean architecture and powerful tooling.
+# Peter Maina Chege
 
----
+### Senior Software Engineer • Full-Stack Engineer • Cloud & Mobile Applications
 
-## 📊 GitHub Stats
+I design and build scalable software that powers modern businesses—from enterprise APIs and cloud services to cross-platform mobile applications.
 
-<!-- GitHub Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWithMaina&theme=dark&hide_border=true)](https://git.io/streak-stats)
+**3+ Years of Professional Experience**
 
-<!-- GitHub Summary Stats -->
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithMaina&show_icons=true&theme=dark&hide_border=true)
+<p>
 
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMaina&layout=compact&theme=dark&hide_border=true)
+<a href="https://github.com/CodeWithMaina">
+<img src="https://komarev.com/ghpvc/?username=CodeWithMaina&style=for-the-badge" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/peter-chege-803593349/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🧰 Languages & Tools
+<a href="mailto:petermaina.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-000?style=for-the-badge&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
----
+</p>
 
-## 🚀 Recent Projects
----
-
-### 🍽️ Restaurant Frontend
-> A full-featured food ordering interface using React and Tailwind CSS.  
-> Supports authentication, dynamic menu browsing, and admin dashboard with charts.
-
-🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-Fontend)
-
-### 🍽️ Restaurant Management API
-> A Full-Featured Backend System for Modern Restaurants
-
-🚀 Key Features
->14+ Database Tables with Proper Relations (1:1, 1:M, M:N)
->Full CRUD Operations for Menu, Orders, Staff, Customers, Payments, etc.
->Role-Based Access (RBA) – Admins, Managers, Staff, Customers
->JWT Authentication (Secure Login, Refresh Tokens)
->Optimized Queries with Drizzle ORM for Type-Safe SQL
->RESTful API Design with Clean Documentation (Postman/Swagger)
->Connected to Frontend (Live Demo Available)
-
-🔗 [View on GitHub](https://github.com/CodeWithMaina/Restaurant-Management-API)
+</div>
 
 ---
 
-## 📰 Blog Posts
+# About Me
 
-*Coming soon: Technical write-ups, project breakdowns, and tutorials!*
+I'm a **Software Engineer with over three years of professional experience** building scalable, maintainable, and user-focused software.
+
+My experience spans **enterprise backend systems**, **modern web applications**, **cross-platform mobile development**, and **cloud-native architectures**.
+
+I enjoy solving complex engineering problems through clean architecture, thoughtful system design, and modern development practices.
+
+### What I Build
+
+- Enterprise APIs
+- SaaS Platforms
+- Mobile Applications
+- Multi-tenant Systems
+- AI-powered Applications
+- Real-time Systems
+- Progressive Web Apps
+- Internal Business Platforms
 
 ---
 
-## 🌐 Connect with Me
+# Core Expertise
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-chege-803593349/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithMaina)
+### Backend Engineering
+
+- .NET 8
+- ASP.NET Core
+- Node.js
+- REST API Design
+- Authentication & Authorization
+- Clean Architecture
+- Domain-Driven Design
+- Entity Framework
+- Drizzle ORM
 
 ---
 
-## 📫 Contact Me
+### Frontend Engineering
 
-📍 **Location:** Nairobi, Kenya  
-📧 **Email:** petermaina.dev@gmail.com
+- React
+- Next.js
+- React Native
+- Expo
+- TypeScript
+- Tailwind CSS
+- NativeWind
+
+---
+
+### Cloud & DevOps
+
+- Docker
+- Azure
+- GitHub Actions
+- CI/CD
+- Linux
+- PostgreSQL
+- Microsoft SQL Server
+- MySQL
+
+---
+
+# Engineering Principles
+
+✔ Clean Architecture
+
+✔ SOLID Principles
+
+✔ Performance First
+
+✔ Scalable Design
+
+✔ Security by Default
+
+✔ Testable Code
+
+✔ Maintainable Codebases
+
+✔ API-First Development
+
+✔ Mobile-First UX
+
+✔ Developer Experience
+
+---
+
+# Featured Projects
+
+## 🚀 Punched — Digital Loyalty Rewards Platform
+
+A modern multi-tenant SaaS platform transforming customer loyalty into a real-time digital experience.
+
+### Highlights
+
+- Multi-tenant SaaS
+- Customer, Business, Staff & Admin Portals
+- Real-time Event Streaming
+- QR-based Reward System
+- Referral Engine
+- Business Analytics
+- Secure Authentication
+- Progressive Web App
+- Docker Deployment
+
+**Tech Stack**
+
+.NET 8 • Next.js • TypeScript • PostgreSQL • Docker • Tailwind CSS
+
+---
+
+## 🍽 Restaurant Management Platform
+
+A complete restaurant operations platform consisting of a production-ready REST API and a modern React dashboard.
+
+### Features
+
+- Authentication & Role-Based Access
+- Order Management
+- Menu Management
+- Staff Management
+- Customer Management
+- Payment Processing
+- Analytics Dashboard
+- REST API
+- Responsive Frontend
+
+**Tech Stack**
+
+React • TypeScript • Node.js • PostgreSQL • Drizzle ORM
+
+Frontend
+
+https://github.com/CodeWithMaina/Restaurant-Management-Fontend
+
+Backend
+
+https://github.com/CodeWithMaina/Restaurant-Management-API
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWithMaina&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMaina&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=CodeWithMaina&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Technologies
+
+### Languages
+
+C# • TypeScript • JavaScript • Python • SQL
+
+### Frameworks
+
+.NET • ASP.NET Core • React • React Native • Next.js • Expo
+
+### Databases
+
+PostgreSQL • SQL Server • MySQL • Neon
+
+### Tools
+
+Docker • Git • GitHub • Azure • Tailwind CSS • Drizzle ORM
+
+---
+
+# Currently Exploring
+
+- AI Agent Architectures
+- OpenAI Responses API
+- MCP Servers
+- Distributed Systems
+- Cloud Infrastructure
+- High Performance APIs
+- Mobile SaaS Platforms
+
+---
+
+# Let's Connect
+
+📍 Nairobi, Kenya
+
+📧 **petermaina.dev@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/peter-chege-803593349/
+
+🐙 GitHub
+
+https://github.com/CodeWithMaina
